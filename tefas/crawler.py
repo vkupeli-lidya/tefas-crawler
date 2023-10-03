@@ -38,7 +38,7 @@ class Crawler:
     4  2020-11-16  YAC  1.827832
     """
 
-    root_url = "https://fundturkey.com.tr"
+    root_url = "https://fonturkey.com.tr"
     detail_endpoint = "/api/DB/BindHistoryAllocation"
     info_endpoint = "/api/DB/BindHistoryInfo"
     headers = {
